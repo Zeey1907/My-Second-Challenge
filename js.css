@@ -713,6 +713,10 @@ color: #000;
 .big{
   color: #000;
 }
+.girl{
+  color: rosybrown;
+  text-align: center;
+}
 
 
 
@@ -737,6 +741,7 @@ color: #000;
   .featured{
     flex-wrap: wrap;
   }
+
   
 }
 @media screen and (max-width:400px) {
